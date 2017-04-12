@@ -1,7 +1,13 @@
 # test2
 this is my second try
-## just testing..
-### third title
+## 无序列表
+- 值1
+- 值2
+### 有序列表
+1. 一种
+2. 两者
+3. [简书](http://www.jianshu.com)
+4. 图片：![](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### forth title
 ##### fifth title
 ###### sixth title
